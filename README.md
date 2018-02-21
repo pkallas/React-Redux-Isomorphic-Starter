@@ -2,7 +2,8 @@
 
 ## Introduction
 This is a repository that I made to be used as a starting point for any React
-application. To view the starting point, go to the following directory:
+application. Feel free to clone or fork the repo.
+To view the starting point, go to the following directory:
 
 src/client/components/homepage
 
