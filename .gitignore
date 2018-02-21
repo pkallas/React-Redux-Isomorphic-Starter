@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# webpack production builds
+build
+bundle.js
+dist
+style.css
