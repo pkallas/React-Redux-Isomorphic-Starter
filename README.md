@@ -50,7 +50,7 @@ is taking the React application from the src/client/components/app/index.jsx fil
 converting it into an html string. This string can then be sent as a stream to the
 client's browser.
 
-For more details, you can view the documentation on renderToNodeStream here(https://reactjs.org/docs/react-dom-server.html).
+For more details, you can view the documentation on renderToNodeStream [here](https://reactjs.org/docs/react-dom-server.html).
 
 On line 46, the html string is being closed off, and a bundle.js file is being sent
 over as a script tag. This bundle file is being created by Webpack, and is the
