@@ -16,11 +16,10 @@ router.use('*', (req, res) => {
   <html>
     <head>
       <noscript>
-        <div class="flex-center">
+        <div>
           <b>
             This page may not load correctly with JavaScript disabled at the moment.
-            Please enable JavaScript to view this page.
-            Maybe in the future this will be truly isomorphic.
+            You have been warned.
           </b>
         </div>
       </noscript>
