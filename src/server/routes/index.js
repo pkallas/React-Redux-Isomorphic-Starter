@@ -49,4 +49,4 @@ router.use('*', (req, res) => {
 
 });
 
-module.exports = router;
+export default router;
